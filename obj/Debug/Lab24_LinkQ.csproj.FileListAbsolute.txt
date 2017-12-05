@@ -1,0 +1,6 @@
+E:\Googledrive\MainAcademy\Projects\New projects\Lab13 TeacherStudentPersone\Lab24_LinkQ\bin\Debug\Lab24_LinkQ.exe.config
+E:\Googledrive\MainAcademy\Projects\New projects\Lab13 TeacherStudentPersone\Lab24_LinkQ\bin\Debug\Lab24_LinkQ.exe
+E:\Googledrive\MainAcademy\Projects\New projects\Lab13 TeacherStudentPersone\Lab24_LinkQ\bin\Debug\Lab24_LinkQ.pdb
+E:\Googledrive\MainAcademy\Projects\New projects\Lab13 TeacherStudentPersone\Lab24_LinkQ\obj\Debug\Lab24_LinkQ.csprojResolveAssemblyReference.cache
+E:\Googledrive\MainAcademy\Projects\New projects\Lab13 TeacherStudentPersone\Lab24_LinkQ\obj\Debug\Lab24_LinkQ.exe
+E:\Googledrive\MainAcademy\Projects\New projects\Lab13 TeacherStudentPersone\Lab24_LinkQ\obj\Debug\Lab24_LinkQ.pdb
